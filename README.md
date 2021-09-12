@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm @HendrilMendes👋 
+
+- 🔭 I’m currently working on an internet provider, i'm passionate about technology 
+- 🌱 I’m currently learning programming language 
+- 👯 I’m looking to collaborate on web or mobile project 
+- 📫 How to reach me: hendrilmendes2015@gmail.com
 
 <!--
 **hendrilmendes/hendrilmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
