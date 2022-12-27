@@ -1,5 +1,5 @@
 ### Olá me chamo @HendrilMendes 👋 
-- 🔭 Atualmente estou trabalho como Técnico em Informática.
+- 🔭 Atualmente eu trabalho como Técnico em Informática.
 - 🌱 Atualmente estou estudando Engenharia da Computação.
 - 👯 Estou procurando colaborar em projetos Web, Mobile entre outros.
 - 🤔 Estou procurando ajuda com o que tiver no meu alcance, amo ajudar as pessoas.
