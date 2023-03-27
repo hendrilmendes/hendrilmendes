@@ -3,7 +3,7 @@
   <img alt="Android Studio" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="30%" />
 </p><br>
 - 🔭 Atualmente eu trabalho como Técnico em Informática.<br>
-- 🌱 Atualmente estou estudando Engenharia da Computação.<br>
+- 🌱 E momento estou estudando Engenharia da Computação.<br>
 - 👯 Estou procurando colaborar em projetos Web, Mobile entre outros.<br>
 
 
