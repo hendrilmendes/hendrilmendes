@@ -18,7 +18,7 @@
 ## Meu Desempenho:
 <div>
 <a href="https://github.com/hendrilmendes">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hendrilmendes&theme=react&line_height=40&hide=css"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hendrilmendes&theme=react&line_height=80&hide=css"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendrilmendes&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendrilmendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hendrilmendes&theme=react&line_height=40&hide=css"/> </a>
