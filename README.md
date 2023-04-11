@@ -19,5 +19,5 @@
 <div>
 <a href="https://github.com/hendrilmendes">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hendrilmendes&layout=compact&langs_count=7&theme=react&line_height=80&hide=css"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hendrilmendes&show_icons=true&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/></a>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hendrilmendes&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
