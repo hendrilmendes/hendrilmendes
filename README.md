@@ -1,6 +1,6 @@
 ### Olá me chamo @HendrilMendes
 <p>
-  <img alt="Android Studio" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="30%" />
+  <img alt="Android Studio" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width=15%" />
 </p><br>
 - 🔭 Atualmente eu trabalho como Técnico em Informática.<br>
 - 🌱 E no momento estou estudando Engenharia da Computação.<br>
@@ -16,8 +16,12 @@
 </div>
 
 ## Meu Desempenho:
-<div>
+<div align="center">
 <a href="https://github.com/hendrilmendes">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hendrilmendes&layout=compact&langs_count=7&theme=react&line_height=80&hide=css"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hendrilmendes&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/></a>
+<img height="190rem" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hendrilmendes&layout=compact&langs_count=7&theme=react&line_height=80&hide=css"/>
+<img height="190rem" alt="Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hendrilmendes&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=095FDC&height=120&section=footer"/>
+</a>
