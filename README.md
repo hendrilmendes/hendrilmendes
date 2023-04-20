@@ -18,7 +18,13 @@
 ## Meu Desempenho:
 <div align="center">
 <a href="https://github.com/hendrilmendes">
+<br>
+                                          
+<a href="#">
 <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hendrilmendes&layout=compact&langs_count=7&theme=react&line_height=80&hide=css"/>
+</a>
+
+<a href="#">
 <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hendrilmendes&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
 
