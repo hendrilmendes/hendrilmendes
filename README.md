@@ -21,13 +21,13 @@
 <br>
                                           
 <a href="#">
-<img height="190rem" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hendrilmendes&layout=compact&langs_count=7&theme=react&line_height=80&hide=css"/>
+<img height="190rem" alt="Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hendrilmendes&layout=compact&langs_count=8&theme=github_dark_dimmed&hide=css"/>
 </a>
 
 <a href="#">
-<img height="190rem" alt="Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hendrilmendes&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/></a>
-</div>
+<img height="190rem" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hendrilmendes&show_icons=true&layout=compact&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/></a>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=095FDC&height=120&section=footer"/>
 </a>
+</div>
