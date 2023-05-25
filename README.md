@@ -1,10 +1,10 @@
-### Olá me chamo @HendrilMendes
+### Olá me chamo @HendrilMendes e bem vindo ao meu mundo 🙃
 <p>
-  <img alt="Android Studio" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width=15%" />
+  <img alt="Android" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width=15%" />
 </p><br>
-- 🔭 Atualmente eu trabalho como Técnico em Informática.<br>
-- 🌱 E no momento estou estudando Engenharia da Computação.<br>
-- 👯 Estou procurando colaborar em projetos Web, Mobile entre outros.<br>
+- 🔭 Atualmente eu trabalho como Técnico em Informática<br>
+- 🌱 E no momento estou estudando Engenharia da Computação 2/10<br>
+- 👯 Estou disposto a ajudar em projetos Web, Mobile entre outros<br>
 
 ## Contatos:
 <div>
@@ -21,11 +21,11 @@
 <br>
                                           
 <a href="#">
-<img height="190rem" alt="Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hendrilmendes&layout=compact&langs_count=8&theme=github_dark_dimmed&hide=css"/>
+<img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendrilmendes&layout=compact&langs_count=8&theme=midnight-purple&hide=css"/>
 </a>
 
 <a href="#">
-<img height="190rem" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hendrilmendes&show_icons=true&layout=compact&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/></a>
+<img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hendrilmendes&show_icons=true&layout=compact&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=095FDC&height=120&section=footer"/>
