@@ -1,7 +1,7 @@
 <div align="center">
 <br>
   
-### Olá me chamo @HendrilMendes e bem vindo ao meu mundo 🙃
+### Olá me chamo @HendrilMendes 🙃
 <br>
 </div>
 
