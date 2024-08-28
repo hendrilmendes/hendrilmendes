@@ -10,7 +10,7 @@
 - 👨🏻‍🔧 Estou disposto a ajudar em projetos Web, Mobile, entre outros<br>
 
 
-### 📱 Redes Sociais:
+### Redes Sociais:
 <div>
 <a href="https://instagram.com/hendril_mendes" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:hendrilmendes2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,7 +21,7 @@
 <div align="left">
 <br>
                                           
-### 💁🏻‍♂️ Resumo do meu Perfil
+### Resumo do Perfil
 <p align="left">
   <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendrilmendes&theme=transparent"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendrilmendes&layout=compact&langs_count=8&theme=transparent"/>
@@ -30,11 +30,14 @@
 ### Linguagens:
 ![langs](https://skillicons.dev/icons?i=python,dart,html,css,javascript&perline=)
 
+### Framework:
+![langs](https://skillicons.dev/icons?i=flutter&perline=)
+
 ### Ferramentas:
 ![langs](https://skillicons.dev/icons?i=git,github,androidstudio,vscode&perline=)
 
 ### Banco de Dados:
-![langs](https://skillicons.dev/icons?i=mysql&perline=)
+![langs](https://skillicons.dev/icons?i=sqlite&perline=)
 
 ### Sistemas Operacionais:
 ![langs](https://skillicons.dev/icons?i=linux,windows,apple&perline=)
