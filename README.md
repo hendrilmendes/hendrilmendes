@@ -6,7 +6,7 @@
 </div>
 
 - 👨🏻‍💻 Atualmente eu trabalho como Técnico em Informática<br>
-- 📚 E no momento estou estudando Engenharia da Computação - 4/10<br>
+- 📚 No momento estou estudando Engenharia da Computação - 4/10<br>
 - 👨🏻‍🔧 Estou disposto a ajudar em projetos Web, Mobile, entre outros<br>
 
 
