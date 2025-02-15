@@ -28,7 +28,7 @@
 </p>
 
 ### Linguagens:
-![langs](https://skillicons.dev/icons?i=python,dart,html,css,javascript&perline=)
+![langs](https://skillicons.dev/icons?i=python,dart,javascript&perline=)
 
 ### Framework:
 ![langs](https://skillicons.dev/icons?i=flutter&perline=)
